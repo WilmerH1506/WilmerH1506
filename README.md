@@ -1,11 +1,14 @@
 
-
 <h1 align="center">
-Hi, I'm Wilmer Hernandez!
-	<a href="https://github.com/Bouaskaoun" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	</a>
+    Hi, I'm Wilmer Hernandez!
+    <a href="https://github.com/WilmerH1506" target="_self">
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+    </a>
 </h1>
+
+<div align="center">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRsZHl6OHk5YzhnZ2o2cHcxbDRzb3NyYzY4ODlrbGE3NWZmdmVyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" width="200",>     
+</div>
 
 
 ## About Me
@@ -14,7 +17,7 @@ Hi, I'm Wilmer Hernandez!
   class AboutMe:
     user = 'Wilmer Hernandez'
     description = (
-      "I am a Systems Engineering student with a passion for technology and problem solving. "
+      "I am a Systems Engineering student with a passion for technology and problem solving.",
       "I am interested in software development and digital innovation,and I am always looking to learn new tools",
       "and programming languages."
     )
