@@ -16,11 +16,11 @@
  ```python
   class AboutMe:
     user = 'Wilmer Hernandez'
-    description = (
+    description = [
       "I am a Systems Engineering student with a passion for technology and problem solving.",
       "I am interested in software development and digital innovation,and I am always looking to learn new tools",
       "and programming languages."
-    )
+    ]
     currently_learning = "Javascript, IA"
     fun_fact = "I hate snakes"
 	hobbies = [
