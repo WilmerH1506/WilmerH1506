@@ -21,7 +21,7 @@
       "I am interested in software development and digital innovation,and I am always looking to learn new tools",
       "and programming languages."
     ]
-    currently_learning = "Javascript, IA"
+    currently_learning = "Javascript,"
     fun_fact = "I hate snakes"
 	hobbies = [
 				'Music',
